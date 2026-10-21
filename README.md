@@ -46,7 +46,7 @@ The following application features and testing techniques were covered:
 - Web application testing using Microsoft Edge
 - AbleSpace mobile application testing
 - iPad Mini responsive emulation using Chrome DevTools
-- iPad Pro responsive emulation using Chrome DevTools (testing status to be updated)
+- iPad Pro responsive emulation using Chrome DevTools 
 
 ## 4. Test Environments
 
