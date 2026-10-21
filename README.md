@@ -56,7 +56,7 @@ The following application features and testing techniques were covered:
 | Microsoft Edge | Web application testing |
 | AbleSpace Mobile App | Mobile functionality testing |
 | iPad Mini Emulation | Responsive UI testing using Chrome DevTools |
-| iPad Pro Emulation | Responsive UI testing; coverage to be updated |
+| iPad Pro Emulation | Responsive UI testing using Chrome DevTools |
 
 Browser versions, device details, and viewport dimensions will be documented where verified. Not every workflow was tested in every environment.
 
